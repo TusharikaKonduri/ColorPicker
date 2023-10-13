@@ -3,7 +3,7 @@ text-align: center;
   
 }
 html {
-  background-color: lavender;
+  background: radial-gradient(#ceabcb 20%,#bbb5db 80%);
 
 }
 .App {
